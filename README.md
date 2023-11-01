@@ -1,3 +1,3 @@
 # solo2
-program
-<h1> hi hello </h1>
+
+<h1> this is my first learning for readme.me </h1><p>i am learning something new</p>
